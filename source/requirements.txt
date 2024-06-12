@@ -2,7 +2,6 @@ sphinx-rtd-theme
 sphinx_rtd_dark_mode
 sphinx_copybutton
 sphinxcontrib.httpdomain
-sphinx.ext.autosectionlabel
 sphinxcontrib.plantuml
 sphinx.ext.graphviz
 sphinxcontrib.openapi
