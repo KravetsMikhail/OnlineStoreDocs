@@ -3,6 +3,6 @@ sphinx_rtd_dark_mode
 sphinx_copybutton
 sphinxcontrib.httpdomain
 sphinxcontrib.plantuml
-sphinx.ext.graphviz
+graphviz
 sphinxcontrib.openapi
 sphinxcontrib.redoc
