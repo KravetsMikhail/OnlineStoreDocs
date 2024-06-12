@@ -1,20 +1,18 @@
-.. OnlineStoreDocs documentation master file, created by
-   sphinx-quickstart on Sat Jun  8 21:42:55 2024.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
-
-Welcome to OnlineStoreDocs's documentation!
+===========================================
+Заголовок
 ===========================================
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+   :maxdepth: 3
+   :numbered:
+   :caption: Содержание:
 
+   introduction
+   architecture/index
+   api/index
 
-
-Indices and tables
+Указатели
 ==================
 
 * :ref:`genindex`
-* :ref:`modindex`
 * :ref:`search`
